@@ -1,0 +1,13 @@
+{
+  "response": [
+    {
+      "datetime": 1595887562,
+      "filename": "lineage-15.1-20200727-UNOFFICIAL-freezerfhd.zip",
+      "id": "d56d512d4c9f0f4cea6d816c27d24c99",
+      "romtype": "unofficial",
+      "size": 437079119,
+      "url": "https://github.com/mt8163/android_device_bq_freezerfhd/releases/download/15.1-beta2/lineage-15.1-20200721-UNOFFICIAL-freezerfhd.zip",
+      "version": "15.1"
+    }
+  ]
+}
