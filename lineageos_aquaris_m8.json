@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1595867247,
-      "filename": "lineage-15.1-20200727-UNOFFICIAL-aquaris_m8.zip",
-      "id": "f578639c2d09875c8feae86498ea064a",
+      "datetime": 1598258312,
+      "filename": "lineage-15.1-20200824-UNOFFICIAL-aquaris_m8.zip",
+      "id": "13554c012564c7ecd044eb523504cc21",
       "romtype": "unofficial",
-      "size": 437079119,
-      "url": "https://github.com/mt8163/android_device_bq_aquaris_m8/releases/download/15.1-beta5/lineage-15.1-20200727-UNOFFICIAL-aquaris_m8.zip",
+      "size": 458428017,
+      "url": "https://github.com/mt8163/android_device_bq_aquaris_m8/releases/download/15.1-beta6/lineage-15.1-20200824-UNOFFICIAL-aquaris_m8.zip",
       "version": "15.1"
     }
   ]
