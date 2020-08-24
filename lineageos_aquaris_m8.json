@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1598258312,
+      "datetime": 1598268228,
       "filename": "lineage-15.1-20200824-UNOFFICIAL-aquaris_m8.zip",
-      "id": "13554c012564c7ecd044eb523504cc21",
+      "id": "89c20fc0f5adfd416a63c6395af24136",
       "romtype": "unofficial",
-      "size": 458428017,
+      "size": 458394237,
       "url": "https://github.com/mt8163/android_device_bq_aquaris_m8/releases/download/15.1-beta6/lineage-15.1-20200824-UNOFFICIAL-aquaris_m8.zip",
       "version": "15.1"
     }
